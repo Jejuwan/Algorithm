@@ -1,8 +1,9 @@
 ﻿using System;
-public class Solution
+public class HelloWorld
 {
-    public static void Main(string[] args)
+    public void solution()
     {
         Console.WriteLine("Hello World!");
     }
+
 }
