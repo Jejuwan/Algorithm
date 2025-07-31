@@ -1,7 +1,7 @@
 ﻿using System;
 public class Sachikyeonsan
 {
-    public static void Main(string[] args)
+    public void Solution()
     {
         string? input = Console.ReadLine();
         string[] tokens = input!.Split();
