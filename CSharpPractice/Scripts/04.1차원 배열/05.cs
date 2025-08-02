@@ -18,7 +18,7 @@
                 arr[l] = k;
             }
         }
-        String s = "";
+        string s = "";
         foreach(var elem in arr)
         {
             s += $"{elem} ";

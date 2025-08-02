@@ -18,7 +18,7 @@
             arr[a-1] = arr[b-1];
             arr[b - 1] = temp;
         }
-        String s = "";
+        string s = "";
         foreach(var elem in arr)
         {
             s += $"{elem} ";

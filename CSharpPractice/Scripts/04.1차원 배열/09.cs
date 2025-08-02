@@ -22,7 +22,7 @@
                 arr[a + i] = temp;
             }
         }
-        String s = "";
+        string s = "";
        for(int i=1;i<=N;i++)
         {
       
