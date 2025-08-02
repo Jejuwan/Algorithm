@@ -1,6 +1,6 @@
 ﻿public class CodingIsPE
 {
-    public static void Main(string[] args)
+    public void solution()
     {
        int t = int.Parse(Console.ReadLine()!) / 4;
 

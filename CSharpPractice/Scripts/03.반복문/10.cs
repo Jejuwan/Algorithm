@@ -1,7 +1,7 @@
 ﻿using System.Text;
 public class PrintStar2
 {
-    public static void Main(string[] args)
+    public void solution()
     {
         using var sr = new StreamReader(Console.OpenStandardInput());
         using var sw = new StreamWriter(Console.OpenStandardOutput());
