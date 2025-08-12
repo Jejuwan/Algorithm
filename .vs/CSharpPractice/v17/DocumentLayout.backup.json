@@ -3,12 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\08.\uC218\uD5591\\07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\08.\uC218\uD5591\\07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\08.\uC218\uD5591\\06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\08.\uC218\uD5591\\06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\08.\uC218\uD5591\\07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\08.\uC218\uD5591\\07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\08.\uC218\uD5591\\05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -251,9 +310,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|c:\\users\\jaejo\\source\\repos\\csharppractice\\csharppractice\\scripts\\01.\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08A9295E-EC91-48DF-8E5F-D900AEB073B9}|CSharpPractice\\CSharpPractice.csproj|solutionrelative:csharppractice\\scripts\\01.\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -263,37 +319,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "07.cs",
-              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
-              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
-              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
-              "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "05.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\05.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\05.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\05.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:49:51.483Z",
+              "WhenOpened": "2025-08-12T04:03:12.61Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\08.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\08.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\08.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\08.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:50:11.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "06.cs",
-              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
-              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
-              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
-              "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "07.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\07.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\07.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\07.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\07.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T05:17:25.157Z",
+              "WhenOpened": "2025-08-12T04:28:03.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "06.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\06.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\06.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\06.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T04:17:52.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\04.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\04.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\04.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:51:29.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\03.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\03.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\03.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:57:37.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "06.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\06.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\06.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\06.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:44:52.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "05.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\05.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\05.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\05.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\05.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:34:57.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "04.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\04.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\04.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\04.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:23:19.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "03.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\03.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\03.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\03.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:08:29.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "02.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\02.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\02.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\02.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:55:17.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "01.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\01.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\01.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\01.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\09.\uC57D\uC218,\uBC30\uC218\uC640 \uC18C\uC218 1\\01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:06:54.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "07.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\07.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:49:51.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "06.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T05:17:25.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "05.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\05.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\05.cs",
@@ -301,12 +509,11 @@
               "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\05.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:50:57.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T04:50:57.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "04.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\04.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\04.cs",
@@ -314,12 +521,11 @@
               "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\04.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:41:08.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T04:41:08.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "03.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\03.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\03.cs",
@@ -327,12 +533,11 @@
               "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\03.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T04:11:01.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T04:11:01.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "02.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\02.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\02.cs",
@@ -340,12 +545,11 @@
               "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\02.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T02:55:30.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T02:55:30.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "01.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\08.\uC218\uD5591\\01.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\01.cs",
@@ -353,12 +557,11 @@
               "RelativeToolTip": "CSharpPractice\\Scripts\\08.\uC218\uD5591\\01.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T01:38:35.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T01:38:35.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "04.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\04.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\04.cs",
@@ -366,12 +569,11 @@
               "RelativeToolTip": "CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\04.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T04:11:45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T04:11:45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "03.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\03.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\03.cs",
@@ -383,7 +585,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "02.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\02.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\02.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\02.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T02:49:52.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "01.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\01.cs",
+              "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\01.cs",
+              "ToolTip": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\01.cs",
+              "RelativeToolTip": "CSharpPractice\\Scripts\\10.\uAE30\uD558 1 \uC9C1\uC0AC\uAC01\uD615\uACFC \uC0BC\uAC01\uD615\\01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T01:32:43.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "ToolTip": "C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAswOgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T14:15:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "02.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\02.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\02.cs",
@@ -395,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "01.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\01.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\07.2\uCC28\uC6D0 \uBC30\uC5F4\\01.cs",
@@ -407,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "08.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\08.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\08.cs",
@@ -419,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "07.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\07.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\07.cs",
@@ -431,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "06.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\06.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\06.cs",
@@ -443,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "05.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\05.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\05.cs",
@@ -455,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "04.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\04.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\04.cs",
@@ -467,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "03.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\03.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\03.cs",
@@ -479,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "02.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\02.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\02.cs",
@@ -491,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "01.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\01.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\06.\uC2EC\uD6541\\01.cs",
@@ -503,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "11.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\11.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\11.cs",
@@ -515,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 36,
               "Title": "10.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\10.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\10.cs",
@@ -527,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "09.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\09.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\09.cs",
@@ -539,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "08.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\08.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\08.cs",
@@ -551,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "07.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\07.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\07.cs",
@@ -563,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 41,
               "Title": "06.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\06.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\06.cs",
@@ -575,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "String.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\31a08a3e870a4b436ba346e3bd958e29cd405e50075ec4f0c5f32908428252a2\\src\\libraries\\System.Private.CoreLib\\src\\System\\String.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\31a08a3e870a4b436ba346e3bd958e29cd405e50075ec4f0c5f32908428252a2\\src\\libraries\\System.Private.CoreLib\\src\\System\\String.cs",
@@ -587,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 42,
               "Title": "05.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\05.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\05.cs",
@@ -599,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "04.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\04.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\04.cs",
@@ -611,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 44,
               "Title": "03.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\03.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\03.cs",
@@ -623,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 48,
               "Title": "02.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\02.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\02.cs",
@@ -635,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 49,
               "Title": "01.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\01.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\05.\uBB38\uC790\uC5F4\\01.cs",
@@ -647,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "Number.Parsing.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\99ec2dcb1a74de0097696c93f03c1f02233e7d579b74ced63f78245d1ba641a6\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\99ec2dcb1a74de0097696c93f03c1f02233e7d579b74ced63f78245d1ba641a6\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
@@ -659,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 50,
               "Title": "10.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\10.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\10.cs",
@@ -671,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 45,
               "Title": "09.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\09.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\09.cs",
@@ -683,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 51,
               "Title": "08.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\08.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\08.cs",
@@ -695,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 52,
               "Title": "07.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\07.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\07.cs",
@@ -707,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 46,
               "Title": "06.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\06.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\06.cs",
@@ -720,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 47,
               "Title": "05.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\05.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\05.cs",
@@ -732,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 53,
               "Title": "04.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\04.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\04.cs",
@@ -744,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 54,
               "Title": "03.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\03.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\03.cs",
@@ -756,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 55,
               "Title": "02.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\02.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\02.cs",
@@ -768,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 56,
               "Title": "01.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\01.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\04.1\uCC28\uC6D0 \uBC30\uC5F4\\01.cs",
@@ -780,7 +1021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "11.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\11.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\11.cs",
@@ -792,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 57,
               "Title": "12.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\12.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\12.cs",
@@ -804,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 59,
               "Title": "10.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\10.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\10.cs",
@@ -816,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "09.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\09.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\09.cs",
@@ -828,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 61,
               "Title": "08.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\08.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\08.cs",
@@ -840,7 +1081,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 62,
               "Title": "07.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\07.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\07.cs",
@@ -852,7 +1093,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 63,
               "Title": "06.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\06.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\06.cs",
@@ -864,7 +1105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 64,
               "Title": "05.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\05.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\05.cs",
@@ -876,7 +1117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 65,
               "Title": "04.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\04.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\04.cs",
@@ -888,7 +1129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 66,
               "Title": "03.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\03.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\03.cs",
@@ -900,7 +1141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 68,
               "Title": "02.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\02.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\02.cs",
@@ -912,7 +1153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 67,
               "Title": "01.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\01.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\03.\uBC18\uBCF5\uBB38\\01.cs",
@@ -924,7 +1165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 71,
               "Title": "12.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\01.\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\12.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\01.\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\12.cs",
@@ -936,7 +1177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 69,
               "Title": "07.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\07.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\07.cs",
@@ -948,7 +1189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 70,
               "Title": "06.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\06.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\06.cs",
@@ -960,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 75,
               "Title": "02.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\02.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\02.cs",
@@ -972,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 74,
               "Title": "03.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\03.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\03.cs",
@@ -984,7 +1225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 73,
               "Title": "04.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\04.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\04.cs",
@@ -996,7 +1237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 72,
               "Title": "05.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\05.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\05.cs",
@@ -1008,7 +1249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 76,
               "Title": "01.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\01.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\02.\uC870\uAC74\uBB38\\01.cs",
@@ -1020,7 +1261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 77,
               "Title": "13.cs",
               "DocumentMoniker": "C:\\Users\\jaejo\\source\\repos\\CSharpPractice\\CSharpPractice\\Scripts\\01.\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\13.cs",
               "RelativeDocumentMoniker": "CSharpPractice\\Scripts\\01.\uC785\uCD9C\uB825\uACFC \uC0AC\uCE59\uC5F0\uC0B0\\13.cs",
@@ -1029,18 +1270,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T08:24:34.435Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Dictionary.cs",
-              "DocumentMoniker": "C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "ToolTip": "C:\\Users\\jaejo\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\44652449ca2a39235c4fae7834c841426c69f42fab816225885ee8c48f385b8d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAAAswOgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T14:15:03.305Z"
             }
           ]
         }
