@@ -1,25 +1,23 @@
 ﻿using System.Text;
 class AlignNumber3
 {
-    public static void Main(string[] args)
+    public void solution()
     {
         var sr = new StreamReader(Console.OpenStandardInput());
         var sw = new StreamWriter(Console.OpenStandardOutput());
 
         int n = int.Parse(sr.ReadLine()!);
-        int[] arr = new int[n];
+        int[] arr = new int[10001];
         for (int i = 0; i < n; i++)
         {
-            arr[i] = int.Parse(sr.ReadLine()!);
+            arr[int.Parse(sr.ReadLine()!)]++;
         }
-        Array.Sort(arr);
 
-        var sb = new StringBuilder();
-
-        foreach (int i in arr)
-            sb.AppendLine(i.ToString());
-
-        sw.Write(sb.ToString());
+        for(int i=1;i<=10000;i++)
+        {
+            for(int j = 0; j < arr[i];j++)
+                sw.WriteLine(i.ToString());
+        }
         sw.Flush();
     }
 }

@@ -1,7 +1,7 @@
 ﻿using System.Text;
 class AlignNumber2
 {
-    public static void Main(string[] args)
+    public void solution()
     {
         var sr = new StreamReader(Console.OpenStandardInput());
         var sw = new StreamWriter(Console.OpenStandardOutput());
